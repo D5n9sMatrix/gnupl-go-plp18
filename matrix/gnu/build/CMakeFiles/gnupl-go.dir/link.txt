@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-go.a CMakeFiles/gnupl-go.dir/gnupl-go.cpp.o
+/usr/bin/ranlib libgnupl-go.a
